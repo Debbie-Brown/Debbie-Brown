@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Debbie-Brown
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Debbie
+- 👀 I’m a data analyst who loves telling a
+     story with data, I enjoy analyzing and
+Visualizing data to make informed decisions.
+
+- 🌱 I’m currently learning python,SQL
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+- 📫 How to reach me deborahaku8@gmail.com
 
 
 <!---
